@@ -1,8 +1,5 @@
-# Heuristic Optimization for the Traveling Salesman Problem
+ Heuristic Optimization for the Traveling Salesman Problem
 
-**Anjali Polasani — CS 57200: Heuristic Problem Solving — Purdue University Fort Wayne**
-
----
 
 ## Project Description
 
