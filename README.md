@@ -1,7 +1,6 @@
  Heuristic Optimization for the Traveling Salesman Problem
 
-
-## Project Description
+ Project Description
 
 This project explores heuristic approaches for solving the **Traveling Salesman Problem (TSP)**, a classic NP-hard optimization problem. The goal of TSP is to find the shortest possible tour that visits each city exactly once and returns to the starting point.
 
