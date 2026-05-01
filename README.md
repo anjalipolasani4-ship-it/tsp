@@ -8,7 +8,7 @@ Since exact solutions become computationally infeasible for larger problem sizes
 
 ---
 
-## Objectives
+ Objectives
 
 * Implement baseline and advanced heuristic algorithms for TSP
 * Compare solution quality across different methods
