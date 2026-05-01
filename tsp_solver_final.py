@@ -1,8 +1,3 @@
-"""
-tsp_solver_final.py
-Anjali Polasani — CS 57200: Heuristic Problem Solving
-Final Project: Heuristic Optimization for the Traveling Salesman Problem
-
 Algorithms implemented:
   Exact:          Held-Karp dynamic programming (n <= 15)
   Baseline:       Nearest Neighbor (NN), Greedy Insertion
