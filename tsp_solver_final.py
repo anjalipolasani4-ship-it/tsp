@@ -6,7 +6,6 @@ Algorithms implemented:
 
 No external dependencies — only Python standard library.
 Run: python tsp_solver_final.py
-"""
 
 import math
 import random
